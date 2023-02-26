@@ -1,7 +1,7 @@
 ## Olá, me chamo Vanderson Almeida 👋😄
 
 
-- #### 🔭 Bacharelando em Engenharia de Software, estudante de JavaScript, TypeScript e Python.
+- #### 🔭 Bacharelando em Engenharia de Software, estudante de JavaScript e Python.
 
 
 
